@@ -37,7 +37,7 @@ You can download the latest release of the application from the link below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Dsoji/busha_task.git
+git clone https://github.com/Dsoji/saucerer_assesment.git
 ```
 
 2. Navigate to the project directory:
